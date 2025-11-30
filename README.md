@@ -16,6 +16,9 @@
     - Clique em Baixar CSV para salvar todas as amostras coletadas.
     - O arquivo incluirá estatísticas gerais da simulação.
 
+# Código no kaggle
+- https://www.kaggle.com/code/fabiojuniordossantos/monitoramento-qualidade-ar-iot
+
 # Monitoramento da Qualidade do Ar com IA (Dados Simulados de IoT)
 
 Projeto desenvolvido na disciplina **Internet das Coisas e Aplicações de IA (Big Data)** da **Universidade do Vale do Rio dos Sinos - UNISINOS**.
